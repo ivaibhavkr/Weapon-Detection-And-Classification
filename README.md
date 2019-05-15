@@ -1,7 +1,7 @@
 # Weapon-Detection-And-Classification-Using-Deep-Learning
 Weapon Detection &amp; Classification through CCTV surveillance using Deep Learning-CNNs.
 <hr>
-This dataset contains <b>10,014 images</b> that span cover 3 categories of weapons. The weapons classes 
+This dataset contains <b>10,014 images</b> that classifies 3 categories of weapons. The weapon categories
   included in this release are: <br><br>
 
   - <b> Knife </b> <br>
