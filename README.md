@@ -12,11 +12,11 @@ This dataset contains **10,014 images** images that span cover 3 categories of w
  The link to the datasets is provided for download in the **train** folder. <br><br>
  
  <b>>>> Prediction Results</b> <br><br>
-<img src="test-images/10.jpg" />
+<img src="test/test.jpg" />
 <pre>
-police  :  96.9819724559784
-pilot  :  2.988756448030472
-engineer  :  0.029250176157802343
+Knife  :  2.6346240e-04
+Small Gun  :  9.1683286e-01
+Long Gun :  8.2903586e-02
 </pre>
 
 <hr>
