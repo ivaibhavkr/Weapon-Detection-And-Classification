@@ -15,8 +15,8 @@ This dataset contains **10,014 images** images that span cover 3 categories of w
 <img src="test/test.jpg" />
 <pre>
 Knife  :  2.6346240e-04
-Small Gun  :  9.1683286e-01
-Long Gun :  8.2903586e-02
+Long Gun  :  9.1683286e-01
+Small Gun :  8.2903586e-02
 </pre>
 
 <hr>
