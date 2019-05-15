@@ -11,7 +11,7 @@ from PIL import Image
 
 x=[]
 m,n = 50,50
-model = tf.keras.models.load_model("model_latest.h5")
+model = tf.keras.models.load_model("models\\model_latest.h5")
 path = 'test\\'
 
 files=os.listdir(path);
