@@ -10,7 +10,6 @@ This dataset contains **10,014 images** images that span cover 3 categories of w
  
  <b>>>> DOWNLOAD, TRAINING AND PREDICTION: </b> <br><br>
  The link to the datasets is provided for download in the **train** folder. <br><br>
- 
  <b>>>> Prediction Results</b> <br><br>
 <img src="test/test.jpg" />
 <pre>
