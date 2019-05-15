@@ -14,7 +14,7 @@ https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/WeaponsDetection/
 
 *************************************************
 
-"Total size of dataset: '10,014 images'"
+**Total size of dataset: '10,014 images'
 
 *************************************************
 
