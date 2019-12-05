@@ -3,14 +3,14 @@ Weapon Detection &amp; Classification through CCTV surveillance using Deep Learn
 <hr>
 <b>>>Datasets:-</b><br>
 
-- Knife - [3,641 images]
-http://kt.agh.edu.pl/~matiolanski/KnivesImagesDatabase/ + some other found scrapping the internet.
+- Knife - [3,641 images]- (link)
+[http://kt.agh.edu.pl/~matiolanski/KnivesImagesDatabase/] + some other found scrapping the internet.
 
-- Long Gun - [2,497 images]
-http://www.imfdb.org/wiki/Main_Page + some other found scrapping the internet.
+- Long Gun - [2,497 images]- (link)
+[http://www.imfdb.org/wiki/Main_Page] + some other found scrapping the internet.
 
-- Small Gun -[3,876 images] 
-https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/WeaponsDetection/BasesDeDatos/Test.zip
+- Small Gun -[3,876 images]- (link)
+[https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/WeaponsDetection/BasesDeDatos/Test.zip]
 
 *************************************************
 
